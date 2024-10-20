@@ -49,7 +49,7 @@
 <h2 align="center">💬 Como Me Encontrar</h2>
 
 <p align="center">
-  <a href="linkedin.com/in/josé-ferreira-9a659a242" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-ferreira-9a659a242/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+5588993693516&text=Ol%C3%A1%20José%20Ferreira!%20Vim%20do%20seu%20perfil%20GitHub." target="_blank">
