@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o José Ferreira! 👋✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=700&lines=Engenheiro+de+Computação+%7C+Matemático;Especialista+em+Segurança+da+Informação;Desenvolvedor+Fullstack+%7C+Django+%7C+Python;Profundo+Conhecimento+em+Sistemas+e+Infraestrutura" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=900&lines=Engenheiro+de+Computação+%7C+Matemático;Especialista+em+Segurança+da+Informação;Desenvolvedor+Fullstack+%7C+Django+%7C+Python;Profundo+Conhecimento+em+Sistemas+e+Infraestrutura" />
 </p>
 
 ---
