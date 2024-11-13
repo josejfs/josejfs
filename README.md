@@ -17,13 +17,13 @@
 <h2 align="center">🚀 Projetos Recentes</h2>
 
 <div align="center">
-  <a href="https://github.com/josejfs/sistema-de-agendamentos">
+  <a href="https://github.com/josejfs/sistema-de-agendamentos" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=sistema-de-agendamentos&theme=radical" />
   </a>
-  <a href="https://github.com/josejfs/ai-driver-assistant">
+  <a href="https://github.com/josejfs/ai-driver-assistant" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=ai-driver-assistant&theme=radical" />
   </a>
-  <a href="https://github.com/josejfs/montanha-russa">
+  <a href="https://github.com/josejfs/montanha-russa" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=montanha-russa&theme=radical" />
   </a>
 </div>
