@@ -23,9 +23,6 @@
   <a href="https://github.com/josejfs/ai-driver-assistant">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=ai-driver-assistant&theme=radical" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/josejfs/montanha-russa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=montanha-russa&theme=radical" />
   </a>
@@ -61,7 +58,7 @@
 
 <h2 align="center">💡 Sobre Minha Experiência</h2>
 
-<p align="center">Com uma sólida formação em computação, venho aplicando minhas habilidades em diversos projetos de desenvolvimento de sistemas e infraestrutura de TI. Tenho experiência em arquiteturas web robustas, segurança de dados e soluções empresariais que otimizam processos e melhoram a eficiência operacional.</p>
+<p align="center">Com sólida formação em engenharia de computação e matemática, aplico conhecimentos profundos em segurança de informação, desenvolvimento fullstack, e arquitetura de sistemas. Meus projetos focam em soluções web robustas, segurança de dados e otimização de processos empresariais para eficiência máxima.</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -70,5 +67,5 @@
 </p>
 
 <p align="center">
-  <em>"Tecnologia é o futuro, e estou aqui para moldá-lo!"</em>
+  <em>"Transformar o digital em realidade: esse é meu compromisso com a tecnologia!"</em>
 </p>
