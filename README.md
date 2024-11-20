@@ -117,13 +117,8 @@ graph TD
 </div>
 
 ## 🎯 Projetos Django em Destaque
-
-<div align="center">
-  <a href="https://github.com/josejfs/sistema-de-agendamentos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=sistema-de-agendamentos&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/josejfs/ai-driver-assistant">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=ai-driver-assistant&theme=tokyonight" />
+  <a href="https://github.com/josejfs/PYTHON/tree/main/GERENCIAMENTO_DE_MERCEARIA">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=PYTHON&theme=tokyonight" alt="Gerenciamento de Mercearia" />
   </a>
 </div>
 
