@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Django+%26+DRF+Specialist;Python+Backend+Developer;Clean+Architecture+Expert;Secure+Development+Pro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Django+%26+DRF+Specialist;AI-Powered+Developer;Data+Analytics+Expert;Automation+%26+Integration+Pro;Clean+Architecture+%26+Security" alt="Typing SVG" />
   </a>
 </div>
 
-> 💡 **Desenvolvedor Backend Python/Django** apaixonado por construir APIs robustas e escaláveis. Combinando expertise matemática com engenharia de software para criar soluções elegantes e eficientes. Especialista em Segurança da Informação e Big Data.
+> 💡 **Desenvolvedor Backend Python/Django + Analista de Dados** que combina expertise matemática, engenharia de software e **Inteligência Artificial** para criar soluções escaláveis e inovadoras. Especialista em automações, análise de dados e desenvolvimento assistido por IA para máxima produtividade e qualidade de código.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/josé-ferreira-9a659a242/">
@@ -23,13 +23,15 @@
 ## 🎯 Especialidades
 
 ```python
-class DjangoSpecialist:
+class AIEnhancedDeveloper:
     def __init__(self):
         self.core_stack = {
             "backend": ["Django", "Django REST Framework", "Django Ninja", "Celery"],
             "frontend": ["HTML5", "CSS3", "JavaScript"],
-            "database": ["PostgreSQL", "MySQL", "Redis", Supabase],
-            "practices": ["Clean Architecture", "TDD", "API RESTful", "SOLID", "N8N"]
+            "database": ["PostgreSQL", "MySQL", "Redis", "Supabase"],
+            "data_analytics": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter"],
+            "automation": ["N8N", "Zapier", "Python Scripts", "API Integration"],
+            "ai_tools": ["GitHub Copilot", "Claude", "ChatGPT", "Cursor", "V0.dev"]
         }
         
         self.security_expertise = {
@@ -38,125 +40,270 @@ class DjangoSpecialist:
             "tools": ["SSL/TLS", "Security Auditing", "Penetration Testing"]
         }
         
+        self.ai_enhanced_workflow = {
+            "development": "Desenvolvimento 5x mais rápido com IA",
+            "code_quality": "Código otimizado e testado com assistência IA",
+            "architecture": "Design patterns sugeridos por IA",
+            "debugging": "Resolução inteligente de bugs"
+        }
+        
         self.differentials = {
-            "backend_focus": "Especialista Django/DRF",
-            "security": "Expert em Segurança da Informação",
-            "mathematics": "Fundamentos Matemáticos Sólidos",
-            "architecture": "Clean Code & Best Practices"
+            "ai_development": "Desenvolvedor potencializado por IA",
+            "data_driven": "Análise de dados para decisões estratégicas",
+            "automation": "Automações inteligentes com N8N",
+            "full_stack_plus": "Backend + Frontend + Data + AI",
+            "supabase_expert": "BaaS moderno para desenvolvimento ágil"
         }
     
-    def solve_complex_problems(self):
-        """Combinando pensamento matemático com engenharia de software"""
-        return ["Arquitetura Escalável", "Código Limpo", "Soluções Eficientes"]
+    def ai_powered_development(self):
+        """IA como copiloto, não substituto. Código inteligente, desenvolvimento estratégico."""
+        return {
+            "productivity": "5x mais produtivo",
+            "quality": "Código mais limpo e testado",
+            "innovation": "Soluções criativas com IA",
+            "learning": "Aprendizado contínuo assistido"
+        }
 ```
 
-## 🚀 Domínio Técnico
+## 🤖 Desenvolvimento com IA - Meu Diferencial
+
+> **"Não sou apenas mais um 'coda fofo'. Eu sei codar E uso IA estrategicamente para otimizar cada linha de código."**
+
+### 🧠 Como uso IA no desenvolvimento:
+- **🚀 Velocidade 5x**: GitHub Copilot + Cursor para autocompletar inteligente
+- **🔍 Code Review IA**: Análise automática de código para bugs e melhorias
+- **📐 Arquitetura Assistida**: IA sugere padrões de design e melhores práticas
+- **🐛 Debug Inteligente**: Resolução rápida de problemas com assistência IA
+- **📝 Documentação Auto**: Geração automática de docs e comentários
+- **🧪 Testes Inteligentes**: IA ajuda a criar casos de teste mais robustos
+
+## 🚀 Stack Completa + IA
 
 <details>
-<summary>🐍 Stack Python/Django</summary>
+<summary>🐍 Backend & APIs</summary>
 
 ### Backend Expertise
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 </details>
 
-## 🎓 Formação & Expertise
+<details>
+<summary>📊 Análise de Dados</summary>
+
+### Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+</details>
+
+<details>
+<summary>⚡ Automação & Integrações</summary>
+
+### Automation Stack
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+</details>
+
+<details>
+<summary>🤖 IA & Ferramentas de Desenvolvimento</summary>
+
+### AI-Enhanced Development
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge)
+![V0](https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</details>
+
+<details>
+<summary>🗄️ Banco de Dados & Cloud</summary>
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</details>
+
+## 🎓 Formação & Expertise Completa
 
 ```mermaid
 graph TD
-    A[Especialização Django/Python] --> B[Backend Robusto]
-    A --> C[APIs Escaláveis]
-    A --> D[Segurança]
+    A[AI-Enhanced Developer] --> B[Backend Django]
+    A --> C[Data Analytics]
+    A --> D[Automações N8N]
+    A --> E[Supabase BaaS]
     
-    B --> E[Clean Architecture]
-    B --> F[Design Patterns]
+    B --> F[APIs REST/GraphQL]
+    B --> G[Clean Architecture]
     
-    C --> G[REST]
-    C --> H[GraphQL]
+    C --> H[Pandas & NumPy]
+    C --> I[Business Intelligence]
     
-    D --> I[OWASP Top 10]
-    D --> J[Pentest]
+    D --> J[Workflows Inteligentes]
+    D --> K[Integrações API]
     
-    style A fill:#2f80ed,stroke:#2f80ed,stroke-width:2px
+    E --> L[Auth & Real-time]
+    E --> M[Edge Functions]
+    
+    style A fill:#2f80ed,stroke:#2f80ed,stroke-width:3px
     style B fill:#27ae60,stroke:#27ae60,stroke-width:2px
     style C fill:#27ae60,stroke:#27ae60,stroke-width:2px
     style D fill:#27ae60,stroke:#27ae60,stroke-width:2px
+    style E fill:#27ae60,stroke:#27ae60,stroke-width:2px
 ```
 
-### 🌟 Diferenciais Competitivos
-- 🏗️ **Especialista Django/DRF**: Desenvolvimento de APIs RESTful robustas e escaláveis
-- 🔒 **Segurança Avançada**: Implementação de autenticação JWT, OAuth2 e práticas OWASP
-- 🎯 **Arquitetura Limpa**: Código manutenível e testável seguindo SOLID e Clean Architecture
-- 💻 **Full Stack**: Domínio de HTML5, CSS3 e JavaScript para soluções web completas
-- 📊 **Background Matemático**: Resolução analítica de problemas complexos
-- ⚡ **Performance**: Otimização de consultas e cache com Redis
+### 🌟 Diferenciais Competitivos Únicos
 
-## 📊 Métricas GitHub
+#### 🤖 **Desenvolvedor IA-Enhanced** 
+- Uso estratégico de IA para acelerar desenvolvimento sem perder qualidade
+- Código 5x mais rápido mantendo padrões de excelência
+- Debugging inteligente e otimização assistida por IA
+
+#### 📊 **Analista de Dados + Desenvolvedor**
+- Transformo dados em insights acionáveis com Pandas, NumPy e visualizações
+- Dashboards interativos e relatórios automatizados
+- Análise preditiva para tomada de decisões
+
+#### ⚡ **Especialista em Automações N8N**
+- Workflows inteligentes que conectam sistemas diversos
+- Automação de processos repetitivos e integrações complexas
+- APIs orquestradas para máxima eficiência operacional
+
+#### 🚀 **Expert Supabase**
+- BaaS moderno para desenvolvimento ágil
+- Real-time, Auth, Edge Functions e PostgreSQL integrado
+- Alternativa moderna ao Firebase com SQL nativo
+
+#### 🏗️ **Arquiteto Django/DRF**
+- APIs RESTful robustas e escaláveis
+- Clean Architecture e SOLID principles
+- Segurança avançada (OWASP, JWT, OAuth2)
+
+## 📊 Métricas GitHub & Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josejfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejfs&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejfs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
-## 🎯 Projetos Django em Destaque
-  <a href="https://github.com/josejfs/PYTHON/tree/main/GERENCIAMENTO_DE_MERCEARIA">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=PYTHON&theme=tokyonight" alt="Gerenciamento de Mercearia" />
-  </a>
-</div>
-
-## 💡 Formação Acadêmica
-
-```python
-ACADEMIC_BACKGROUND = {
-    "graduacao": {
-        "em_andamento": "Engenharia de Computação",
-        "concluido": ["Licenciatura em Matemática", 
-                     "Tecnólogo em Análise e Desenvolvimento de Sistemas"]
-    },
-    "especializacao": {
-        "concluido": ["Segurança da Informação",
-                     "Big Data e Inteligência Competitiva"],
-        "em_andamento": "Engenharia de Software"
-    }
-}
-```
-
-## 📫 Contato
-
-Para oportunidades de desenvolvimento Django/Python ou discussões técnicas sobre arquitetura de software:
-
-- 💼 LinkedIn: [José Ferreira](https://www.linkedin.com/in/josé-ferreira-9a659a242/)
-- 📱 WhatsApp: [+55 88 99369-3516](https://api.whatsapp.com/send?phone=+5588993693516)
-- 📧 Email: [jjose150697@gmail.com](mailto:jjose150697@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josejfs&theme=tokyonight&hide_border=true"/>
 </div>
 
+## 🎯 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/josejfs/PYTHON/tree/main/GERENCIAMENTO_DE_MERCEARIA">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josejfs&repo=PYTHON&theme=tokyonight" alt="Sistema de Gerenciamento" />
+  </a>
+</div>
+
+### 🚀 Soluções que desenvolvo:
+
+```python
+PORTFOLIO = {
+    "backend_apis": {
+        "django_rest": "APIs robustas com Django REST Framework",
+        "authentication": "JWT, OAuth2, autenticação multi-fator",
+        "integrations": "Integrações com serviços externos via API"
+    },
+    
+    "data_analytics": {
+        "business_intelligence": "Dashboards e relatórios automatizados", 
+        "data_processing": "ETL com Pandas e automação de análises",
+        "visualization": "Gráficos interativos com Plotly e Matplotlib"
+    },
+    
+    "automation": {
+        "n8n_workflows": "Automações complexas entre sistemas",
+        "api_orchestration": "Orquestração inteligente de APIs",
+        "data_pipelines": "Pipelines automatizados de dados"
+    },
+    
+    "modern_stack": {
+        "supabase": "Backend-as-a-Service completo",
+        "real_time": "Aplicações real-time e collaborative",
+        "edge_functions": "Funções serverless otimizadas"
+    }
+}
+```
+
+## 💡 Formação Acadêmica Completa
+
+```python
+ACADEMIC_BACKGROUND = {
+    "graduacao": {
+        "em_andamento": "Engenharia de Computação",
+        "concluido": [
+            "Licenciatura em Matemática", 
+            "Tecnólogo em Análise e Desenvolvimento de Sistemas"
+        ]
+    },
+    "especializacao": {
+        "concluido": [
+            "Segurança da Informação",
+            "Big Data e Inteligência Competitiva"
+        ],
+        "em_andamento": "Engenharia de Software"
+    },
+    "diferenciais": {
+        "matematica": "Base sólida para algoritmos e análise de dados",
+        "seguranca": "Desenvolvimento seguro e auditoria de sistemas",
+        "big_data": "Processamento de grandes volumes de dados"
+    }
+}
+```
+
+## 🎯 Por que escolher meu trabalho?
+
+### 💼 **Entrega de Valor Real**
+- **Não sou só mais um desenvolvedor**: Combino desenvolvimento, análise de dados e automações
+- **IA como diferencial**: Uso IA para entregar mais rápido sem comprometer qualidade  
+- **Visão estratégica**: Background matemático para soluções otimizadas
+- **Full-cycle**: Do banco de dados ao frontend, passando por análises e automações
+
+### 🚀 **Tecnologias Modernas**
+- **Backend robusto**: Django + PostgreSQL + Redis para alta performance
+- **Supabase**: BaaS moderno para desenvolvimento ágil e escalável
+- **N8N**: Automações que economizam horas de trabalho manual
+- **IA Tools**: Desenvolvimento acelerado mantendo excelência técnica
+
+### 📊 **Dados + Desenvolvimento**
+- **Business Intelligence**: Transformo dados em decisões estratégicas
+- **Automação inteligente**: Workflows que otimizam operações
+- **APIs inteligentes**: Backends que aprendem e se adaptam
+
+## 📫 Contato Profissional
+
+**Para projetos Django, análise de dados, automações N8N ou desenvolvimento com IA:**
+
+- 💼 **LinkedIn**: [José Ferreira - Developer & Data Analyst](https://www.linkedin.com/in/josé-ferreira-9a659a242/)
+- 📱 **WhatsApp**: [+55 88 99369-3516](https://api.whatsapp.com/send?phone=+5588993693516)
+- 📧 **Email**: [jjose150697@gmail.com](mailto:jjose150697@gmail.com)
+
 ---
+
 <p align="center">
-  <i>"Arquitetura limpa e código elegante são as bases de um software resiliente. Com Django, transformo complexidade em simplicidade."</i>
+  <i>"IA é minha copiloto, matemática é minha base, Django é minha ferramenta. Juntos, criamos soluções que transformam dados em valor real."</i>
 </p>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
+<div align="center">
+  
+### 🎯 **José Ferreira** - *AI-Enhanced Developer & Data Analyst*
+**Django • Python • IA • Análise de Dados • N8N • Supabase**
+
 </div>
