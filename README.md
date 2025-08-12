@@ -28,8 +28,8 @@ class DjangoSpecialist:
         self.core_stack = {
             "backend": ["Django", "Django REST Framework", "Django Ninja", "Celery"],
             "frontend": ["HTML5", "CSS3", "JavaScript"],
-            "database": ["PostgreSQL", "MySQL", "Redis"],
-            "practices": ["Clean Architecture", "TDD", "API RESTful", "SOLID"]
+            "database": ["PostgreSQL", "MySQL", "Redis", Supabase],
+            "practices": ["Clean Architecture", "TDD", "API RESTful", "SOLID", "N8N"]
         }
         
         self.security_expertise = {
